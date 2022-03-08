@@ -1,0 +1,28 @@
+Implement Pico Container Injection
+Multiple scenarios
+Run scenarios optionally
+Run a scenario with multiple sets for data
+Extent report for each scenario
+Pass over data dynamically from feature
+Store xpaths, selectors, titles etc in a properties file
+Keep the webdriver code separate
+Use GRID
+Use Github and jenkins	
+
+
+
+
+Webdriver commands
+Normal interaction - openBrowser, navigate, click, type, select, getText
+Validations - Validate title, checking the presence, Validating text....
+Operations on the application - login, buy stock, sell stock
+
+
+
+
+
+
+
+
+
+
